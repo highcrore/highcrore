@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @highcrore
-- 👀 I’m interested in ... Data Structure and algorithm 
-- 🌱 I’m currently learning ... Full stack development 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Structure and algorithm 
+- 🌱 I’m currently learning Full stack development 
 - 📫 How to reach me ... mrnovember006@gmail.com
 
 <!---
